@@ -48,6 +48,7 @@ button:hover {
 
 button:active {
     outline: none;
+}
 
 .numberBtn {
     background-color: #ffbaba;
